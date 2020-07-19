@@ -2,7 +2,7 @@ export const INCREMENT = 'INCREMENT'
 export const DECREMENT = 'DECREMENT'
 
 export const increment = () => ({
-    type: INDREMENT
+    type: INCREMENT
 })
 
 export const decrement = () => ({
